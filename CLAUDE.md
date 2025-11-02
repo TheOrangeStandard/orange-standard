@@ -13,7 +13,7 @@
 * If you believe the RFC breaks the architecture, please do not request RFC stop and feedback.
 
 ## Project Envirement
-* Base : Vite(version 7) + React(version 18) + TanStack
+* Base : Vite(v.7) + React + TanStack
 * State Manager : zustand
 * Design Component : primereact(version 10.9.7)
 
