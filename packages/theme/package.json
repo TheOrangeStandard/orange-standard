@@ -1,0 +1,19 @@
+{
+  "name": "@orange-standard/theme",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "main": "./src/index.ts",
+  "exports": {
+    ".": "./src/index.ts",
+    "./theme.css": "./src/theme.css"
+  },
+  "scripts": {
+    "lint": "echo 'No linting needed for theme package'",
+    "test": "echo 'No tests for theme package'",
+    "clean": "rm -rf node_modules .turbo"
+  },
+  "dependencies": {
+    "primereact": "10.9.7"
+  }
+}

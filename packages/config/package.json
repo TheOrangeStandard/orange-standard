@@ -1,0 +1,14 @@
+{
+  "name": "@orange-standard/config",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./index.js",
+  "exports": {
+    "./eslint": "./eslint.config.js",
+    "./typescript": "./tsconfig.base.json"
+  },
+  "devDependencies": {
+    "eslint": "^9.0.0",
+    "typescript": "~5.9.3"
+  }
+}

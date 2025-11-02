@@ -1,0 +1,13 @@
+/* Orange Standard Theme CSS */
+/* Import PrimeReact theme - lara-light-cyan */
+@import 'primereact/resources/themes/lara-light-cyan/theme.css';
+@import 'primereact/resources/primereact.min.css';
+@import 'primeicons/primeicons.css';
+
+/* Custom theme overrides */
+:root {
+  --primary-color: #06b6d4;
+  --surface-0: #ffffff;
+  --surface-50: #fafafa;
+  --surface-100: #f5f5f5;
+}
